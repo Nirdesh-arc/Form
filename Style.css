@@ -1,0 +1,18 @@
+body {
+    font-family: Arial; max-width:600px; margin:20px auto; 
+}
+label { 
+    display:block; margin-top:10px; 
+}
+input { 
+    width:100%; padding:8px; margin-top:4px; box-sizing:border-box; 
+}
+.error {
+    color:#a00; font-size:0.9em; 
+}
+.success { 
+    color:green; margin-bottom:10px; 
+}
+button { 
+    margin-top:12px; padding:10px 16px; 
+}

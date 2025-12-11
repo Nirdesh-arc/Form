@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Nirdesh Khadka",
+        "email": "np03cs4a240338@heraldcollege.edu.np",
+        "password": "$2y$10$AvAfYCiK20S2kWXABllLuuVlsUMQTGfEOvxHKsVUq6pMYEWTSQ3.a"
+    },
+    {
+        "name": "Nirdesh Khadka",
+        "email": "nirdeshkhadka06@gmail.com",
+        "password": "$2y$10$VJ4tEYRIuw5YsnSwO0PmEe9Q5kYwcnwRT4Qj5vdLMWDSG\/8TQR6cO",
+        "registered_at": "2025-12-05 09:07:01"
+    },
+    {
+        "name": "Nirdesh Khadka",
+        "email": "nirdesh22@gmail.com",
+        "password": "$2y$10$XCcoNyaWFvYGcSpdqD7k\/.rsQo0VfofQL3zncE8oirv3hUOOdLU6a",
+        "registered_at": "2025-12-05 09:57:45"
+    },
+    {
+        "name": "Divyani Khatri",
+        "email": "divyani@gmail.com",
+        "password": "$2y$10$7ew3jBxzGzgSdsWZOAsGx.\/R68p6LBkDs1.NhOd.zjsGQvQl.GqRm",
+        "registered_at": "2025-12-11 18:05:48"
+    }
+]
